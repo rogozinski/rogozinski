@@ -1,4 +1,12 @@
-### Hi there 👋
+
+![Background for readMe file](cover.jpg)
+### hiya! 👋
+My name is Michal Rogozinski and I aspire to be a Front End Developer in the future. Currently I'm at Colt Steele's Bootcamp and doing some designing challenges at FrontEndMentor. But if you want to offer me a job then feel free to contact me at:
+
+**Linkedln:** https://www.linkedin.com/in/rogozinskim/
+
+**Facebook:** https://www.facebook.com/rogozinski.m
+
 
 <!--
 **rogozinski/rogozinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
