@@ -1,7 +1,8 @@
 
 ![Background for readMe file](cover.jpg)
 ### hiya! 👋
-My name is Michal Rogozinski and I aspire to be a Front End Developer in the future. Currently I'm at Colt Steele's Bootcamp and doing some designing challenges at FrontEndMentor. But if you want to offer me a job then feel free to contact me at:
+My name is **Michał Rogoziński** and I aspire to be a Front End Developer in the future. Currently I'm in halfway of studying [**Colt Steele's Bootcamp**](https://github.com/rogozinski/courses) and doing some webdesigning challenges at [**FrontEndMentor**](https://www.frontendmentor.io/profile/rogozinski). If you 
+see me as a perfect match for your company feel feel to contact me at:
 
 **Linkedln:** https://www.linkedin.com/in/rogozinskim/
 
